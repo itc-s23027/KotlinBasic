@@ -15,4 +15,13 @@ fun main(args: Array<String>) {
 
     println("num1がnum2より小さい:$a1")
     println("num1がnum2より小さい:$b1")
+
+
+    val num3 = 50
+    val num4 = 100
+    val a2 = (num3!=100)
+    val b2 = (num4!=100)
+    println("num３は　100ではない")
+    println("num4は 100ではない")
+
 }
